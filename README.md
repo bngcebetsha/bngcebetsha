@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on about anything that will get me learning
 - 🤔 I’m looking for help with learning frameworks such as Django
 - 💬 Feel free to ask questions on my email
-- 📫 How to reach me: bngcebetsha@ska.ac.za
+- 📫 How to reach me: buntungcebetsha@gmail.com
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: I enjoy solving problems that follow a pattern, so I look for patterns all the time
