@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Feel free to ask questions on my email
 - 📫 How to reach me: bngcebetsha@ska.ac.za
 - 😄 Pronouns: him/his
-- ⚡ Fun fact: I enjoy solving problems that follow a pattern
+- ⚡ Fun fact: I enjoy solving problems that follow a pattern, so I look for patterns all the time
