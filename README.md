@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on MeerKAT control software
+- 🔭 I’m currently working on MeerKAT telescope control software, maintanance and feature development
 - 🌱 I’m currently learning Python, Javascript, HTML and CSS
 - 👯 I’m looking to collaborate on about anything that will get me learning
 - 🤔 I’m looking for help with learning frameworks such as Django
