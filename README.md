@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, Javascript, HTML and CSS
 - 👯 I’m looking to collaborate on about anything that will get me learning
 - 🤔 I’m looking for help with learning frameworks such as Django
-- 💬 Fee free to ask questions on my email
+- 💬 Feel free to ask questions on my email
 - 📫 How to reach me: bngcebetsha@ska.ac.za
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: I enjoy solving problems that follow a pattern
