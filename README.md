@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on MeerKAT telescope control software, maintanance and feature development
-- 🌱 I’m currently learning Python, Javascript, HTML and CSS
-- 👯 I’m looking to collaborate on about anything that will get me learning
-- 🤔 I’m looking for help with learning frameworks such as Django
+- 🔭 I’m currently working: as a Junior Software Engineer for the team that develops and maintains MeerKAT control software
+- 🌱 I’m currently learning to be a phD radio astronomer
+- 🛠 I work with these technologies: Python, Javascript, HTML and CSS
+- 👯 I’m looking to collaborate for learning purposes
 - 💬 Feel free to ask questions on my email
-- 📫 How to reach me: buntungcebetsha@gmail.com
+  - 📫 How to reach me: buntungcebetsha@gmail.com OR on bngcebetsha@ska.ac.za
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I enjoy solving problems that follow a pattern, so I look for patterns all the time
+- ⚡ Fun fact: I enjoy solving problems and identifying patterns, so I look for patterns all the time
