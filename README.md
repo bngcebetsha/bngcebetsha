@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bngcebetsha&repo=bngcebetsha)](https://github.com/bngcebetsha/bngcebetsha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bngcebetsha&repo=bngcebetsha&show_owner=true)](https://github.com/bngcebetsha/bngcebetsha)
 
 [![Buntu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bngcebetsha&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/bngcebetsha/github-readme-stats)
 
